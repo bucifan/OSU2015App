@@ -70,6 +70,6 @@ function checkConnection() {
      $(".panel-body").html("<br/><br><b style='color:red'>" +  states[networkState] + "</b>");
    } else{
      $("#currop").html("connecting ...");
-     window.location.assign("http://dev1.insurance.ohio.gov/_forms/mlogin.aspx?ReturnUrl=%2foshiip%2fmtest%2f_layouts%2fAuthenticate.aspx%3fSource%3d%252Foshiip%252Fmtest&Source=%2Foshiip%2Fmtest");
+     window.location.assign("http://www.bucifan.com/mapp/default.html");
    }  
 }                 
