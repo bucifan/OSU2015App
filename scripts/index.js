@@ -72,4 +72,8 @@ function checkConnection() {
      $("#currop").html("connecting ...");
      window.location.assign("http://bucifan.azurewebsites.net/OSU2015.html");
    }  
-}                 
+}   
+
+function gotolookup(){
+  window.location.assign("http://bucifan.azurewebsites.net/OSU2015.html");
+}              
