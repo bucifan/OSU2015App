@@ -70,6 +70,6 @@ function checkConnection() {
      $(".panel-body").html("<br/><br><b style='color:red'>" +  states[networkState] + "</b>");
    } else{
      $("#currop").html("connecting ...");
-     window.location.assign("http://http://bucifan.azurewebsites.net/OSU2015.html");
+     window.location.assign("http://bucifan.azurewebsites.net/OSU2015.html");
    }  
 }                 
